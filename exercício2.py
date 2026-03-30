@@ -1,0 +1,15 @@
+# exercício - True or False
+
+print("a)", (2 > 3) and (5 != 0))
+print("b)", (4 < 10) and (3 == 3))
+print("c)", (7 >= 7) or (2 > 5))
+print("d)", not (3 < 1) and (6 == 6))
+print("e)", (8 != 8) or (10 > 2))
+print("f)", not (5 > 3 and 2 < 1))
+print("g)", (9 > 5) and not (4 == 4))
+print("h)", (6 < 2) or (3 != 3) or (1 == 1))
+print("i)", not (2 > 1) or (5 >= 5 and 3 < 4))
+print("j)", (10 != 10) and (not (2 < 3) or (8 > 1)))
+print("k)", (10 > 5) and ("a" == "a"))
+print("l)", ("python" != "Python") or (3 * 2 == 6))
+print("m)", (4 + 1 == 6) or ("chat" == "chat"))
